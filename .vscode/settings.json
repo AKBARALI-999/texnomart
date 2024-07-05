@@ -1,0 +1,37 @@
+{
+  "emmet.inclueLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "editor.tabSize": 2,
+  "editor.detectIndentation": true,
+  "editor.minimap.enabled": false,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 27,
+  "search.showLineNumbers": true,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "'JetBrains Mono' , Consolas, 'Courier New', monospace",
+  "editor.fontSize": 17,
+  "editor.letterSpacing": 0.5,
+  "editor.cursorWidth": 3,
+  "git.confirmSync": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "git.autofetch": true,
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "cloudcode.duetAI.project": "round-bruin-408717",
+  "explorer.confirmDelete": false,
+  "tabnine.experimentalAutoImports": true,
+  "files.autoSave": "afterDelay",
+  "oneDarkPro.italic": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.run": "onSave",
+  "workbench.colorTheme": "Darcula"
+}
